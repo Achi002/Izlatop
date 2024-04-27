@@ -1,0 +1,8 @@
+echo "# Izlatop" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git filiali -M main 
+git remote add origin https://github.com/Achi002/Izlatop.git
+ git push - u kelib chiqishi asosiy
+6424412379:AAERN5Vbg-RLEWRn7uK492oMT6ALd46__fk
